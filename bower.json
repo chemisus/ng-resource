@@ -5,8 +5,10 @@
         "Terrence Howard <chemisus@gmail.com>"
     ],
     "license": "MIT",
-    "dependencies": {
-        "angular": "*",
+    "devDependencies", {
         "angular-mocks": "*"
+    },
+    "dependencies": {
+        "angular": "*"
     }
 }
